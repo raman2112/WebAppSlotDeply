@@ -1,0 +1,2 @@
+# WebAppSlotDeply
+Version1
